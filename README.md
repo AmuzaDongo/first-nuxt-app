@@ -1,5 +1,5 @@
 #First-Nuxt-App
 
-Here am creating Posts
-Updating Posts
-Deleting Posts
+Here am creating Posts!
+Updating Posts!
+Deleting Posts!
